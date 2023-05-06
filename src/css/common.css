@@ -16,3 +16,35 @@ img {
   display: block;
   max-width: 100%;
 }
+
+input {
+  font-size: 18px;
+  color: #4b0082;
+  border-color:  #7b68ee;
+  margin-right: 12px;
+  margin-bottom: 50px;
+}
+
+button {
+  font-weight: 800;
+  font-size: 24px;
+  color: #ff69b4;
+  background-color: #7b68ee;
+  margin-bottom: 50px;
+}
+
+.timer {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+}
+
+.field {
+  font-size: 33px;
+}
+
+.value {
+  font-weight: 800;
+  color: purple;
+}
