@@ -25,7 +25,7 @@ input#datetime-picker  {
   margin-bottom: 50px;
 }
 
-button[data-start] {
+.start_btn {
   font-weight: 800;
   font-size: 24px;
   color: #ff69b4;
