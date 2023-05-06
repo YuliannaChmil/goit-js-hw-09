@@ -17,7 +17,7 @@ img {
   max-width: 100%;
 }
 
-input {
+input#datetime-picker  {
   font-size: 18px;
   color: #4b0082;
   border-color:  #7b68ee;
@@ -25,7 +25,7 @@ input {
   margin-bottom: 50px;
 }
 
-button {
+button[data-start] {
   font-weight: 800;
   font-size: 24px;
   color: #ff69b4;
