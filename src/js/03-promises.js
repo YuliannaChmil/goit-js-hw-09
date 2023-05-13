@@ -6,6 +6,7 @@ const refs = {
   inputAmount: document.querySelector('[name="amount"]'),
   submitBtn: document.querySelector('button'),
 };
+let position;
 
 refs.submitBtn.addEventListener('click', onCreatePromiseBtn);
 
